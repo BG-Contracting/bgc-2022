@@ -275,6 +275,16 @@ input, select, textarea {
 			margin: 5rem 0;
 		}
 
+
+		.img-size {
+			width:20rem;
+			height: 15rem;
+			object-fit: cover;
+
+		}
+	.padded20 {
+		padding: 20px;
+	}
 	.align-left {
 		text-align: left;
 	}
@@ -3902,7 +3912,7 @@ input, select, textarea {
 
 			#main > .posts > * {
 				padding: 4rem;
-				width: 25%;
+				width: 33.33%;
 			}
 
 			#main > .posts > article {
