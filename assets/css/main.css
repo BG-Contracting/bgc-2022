@@ -3634,7 +3634,10 @@ input, select, textarea {
 
 		}
 
-
+.quater-size {
+	width: 25%;
+	height: 25%;
+}
 		.testimonial {
 			color: #283592;
 			font-size: 20px;
