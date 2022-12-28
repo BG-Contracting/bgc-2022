@@ -1312,9 +1312,7 @@ input, select, textarea {
 
 		@media screen and (max-width: 736px) {
 
-			.hidden-mobile {
-				display: none;
-			  }
+
 			}
 			.row {
 				display: flex;
@@ -3480,6 +3478,9 @@ input, select, textarea {
 				#intro + #header {
 					margin-top: -14rem;
 				}
+				.hidden-mobile {
+					display: none;
+				  }
 
 		}
 
